@@ -3,9 +3,9 @@
 
 ### Requirements
 To play with this project, you need:
-    python >= 3.5
-    pytorch >= 0.30 (need reduce parameter for NLLLoss. old version has no parameter "reduce".)
-    gym latest
+   - python >= 3.5
+   - pytorch >= 0.30 (need reduce parameter for NLLLoss. old version has no parameter "reduce".)
+   - gym latest
     
 ## Following introduction explain the implementation detail
 
